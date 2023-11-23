@@ -36,4 +36,5 @@ To use this project, you need to have Python and the Tkinter library installed. 
   `python3 main.py`
 
 # Usage 
-<img src="https://github.com/Muslim04/Smart_Home/blob/master/photos/usage.png" alt="Usage Image" width="700">
+You can interact with GUI using buttons and scales. Changes will be seen on the window.Below you can find an image of sample usage:
+<img src="https://github.com/Muslim04/Smart_Home/blob/master/photos/usage.png" alt="Usage Image" width="600">
