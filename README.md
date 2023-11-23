@@ -1,5 +1,5 @@
 # Smart_Home
-# Desciption of project
+# Description of the project
  It is a Python-based IoT simulator for a smart
 home automation system. The simulator emulates the behavior of various IoT
 devices commonly found in a smart home, such as smart lights, thermostats, and
@@ -22,6 +22,7 @@ To use this project, you need to have Python and the Tkinter library installed. 
    ```bash
    # For Python 2
    sudo apt-get install python-tk
+
 
 3. Download the Project:
     Clone the project repository from GitHub:
