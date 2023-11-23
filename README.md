@@ -25,10 +25,10 @@ To use this project, you need to have Python and the Tkinter library installed. 
 
 3. Download the Project:
     Clone the project repository from GitHub:
-    git clone https://github.com/your-username/your-project.git
+    `git clone https://github.com/your-username/your-project.git`
 
 4.Navigate to the Project Directory:
-  cd your-project
+  `cd your-project`
   
 5.Run the Project:
   Execute your project using the following command:
