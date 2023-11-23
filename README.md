@@ -29,6 +29,7 @@ To use this project, you need to have Python and the Tkinter library installed. 
 
 4.Navigate to the Project Directory:
   cd your-project
+  
 5.Run the Project:
   Execute your project using the following command:
   python your_project_file.py
