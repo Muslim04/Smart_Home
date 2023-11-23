@@ -35,3 +35,4 @@ To use this project, you need to have Python and the Tkinter library installed. 
   Execute your project using the following command:
   `python3 main.py`
 
+# Usage 
