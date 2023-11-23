@@ -36,4 +36,4 @@ To use this project, you need to have Python and the Tkinter library installed. 
   `python3 main.py`
 
 # Usage 
-![Alt text](https://github.com/Muslim04/Smart_Home/blob/master/photos/usage.png)
+<img="https://github.com/Muslim04/Smart_Home/blob/master/photos/usage.png" alt="GitHub Logo" width="200" height="400"
